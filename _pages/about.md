@@ -26,6 +26,6 @@ Outlook, Word)
 
 ## Other Websites 
 
-* [LinkedIN](https://www.linkedin.com/in/william-sands-456069196/).
+* [LinkedIN](https://www.linkedin.com/in/william-sands-456069196/)
 
-![Tre Sands](assets/img/headshot.jpg)
+(assets/img/headshot.jpg)
