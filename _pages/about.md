@@ -28,4 +28,4 @@ Outlook, Word)
 
 * [LinkedIN](https://www.linkedin.com/in/william-sands-456069196/).
 
-![Tre Sands](
+![Tre Sands](assets/img/headshot.jpg)
