@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /_pages/about
   - title: "Syringe Pump Project"
-    url: /syringe-pump/
+    url: /_pages/syringe-pump
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
