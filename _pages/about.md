@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Tre Sands"
 
 ---
 
@@ -28,4 +28,4 @@ Outlook, Word)
 
 * [LinkedIN](https://www.linkedin.com/in/william-sands-456069196/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+![Tre Sands]<img src="/assets/img/headshot.jpg" alt="Tre Sands" style="width:200px;"/>
