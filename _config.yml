@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+   # - "https://www.instagram.com/dr.dflo"
 
 # Analytics
 analytics:
@@ -101,10 +101,10 @@ author:
   bio              : "An engineer with a passion for design "
   location         : "Nashville, TN"
   links:
-    - label: "GitHub"
+#    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
+#    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dr.dflo"
 
@@ -112,10 +112,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
+#    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
+#    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dr.dflo"
 
