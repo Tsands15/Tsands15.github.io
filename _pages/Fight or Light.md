@@ -2,8 +2,8 @@
 title: "Fight or Light"
 excerpt: "This punchig bag utilizes changing colors set at certain speeds to train boxing reflexes"
 header:
-  image: /assets/img/punchingbag.jpg
-  teaser: /assets/img/logo.png
+  image: /assets/img/logo.png
+  teaser: /assets/img/punchingbag.jpg
 gallery:
   - image_path: assets/img/PBsetup2.jpg
   - image_path: assets/img/PBsetup.png
