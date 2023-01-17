@@ -27,5 +27,3 @@ Outlook, Word)
 ## Other Websites 
 
 * [LinkedIN](https://www.linkedin.com/in/william-sands-456069196/)
-
-(assets/img/headshot.jpg)
