@@ -15,10 +15,7 @@ feature_row:
     title: "Syringe Pump"
     excerpt: "Built for precise 1 uL / min flow rate up to 10 mL"
     
-   - image_path: assets/img/punchingbag.jpg
-    alt: "Fight or Light"
-    title: "Fight or Light"
-    excerpt: "Built for rapidly improving boxing reflex skills"
+
  
     
 ---
