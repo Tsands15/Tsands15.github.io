@@ -1,13 +1,11 @@
 ---
 title: "Syringe Pump"
-excerpt: "This automatic syrige pump deleivers precise amounts of fluid at the push of a button!"
+excerpt: "This syringe pump deleivers precise amounts of fluid at the push of a button!"
 header:
   image: /assets/img/LEDscreen.jpg
-  teaser: /assets/img/syringepump
+  teaser: /assets/img/syringepump.jpg
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/code.png
    
 ---
 
@@ -21,4 +19,4 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Arduino Setup" %}
