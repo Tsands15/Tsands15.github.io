@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "This syringe pump deleivers precise amounts of fluid at the push of a button!"
+excerpt: "This syringe pump delivers precise amounts of fluid at the push of a button!"
 header:
   image: /assets/img/LEDscreen.jpg
   teaser: /assets/img/syringepump.jpg
