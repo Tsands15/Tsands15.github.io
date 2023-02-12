@@ -5,8 +5,8 @@ header:
   image: /assets/img/logo.png
   teaser: /assets/img/punchingbag.jpg
 gallery:
-   - image_path: assets/img/PBsetup2.jpg
-   - image_path: assets/img/PBsetup.png
+   - image_path: assets/img/PBsetup4.jpg
+   - image_path: assets/img/PBsetup3.png
 
 ---
 
