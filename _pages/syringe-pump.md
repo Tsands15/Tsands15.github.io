@@ -16,10 +16,10 @@ gallery:
 
 * **Arduino was used to implement code.** The Arduino was programmed using an Arduino Mega microcontroller. All components of the syringe pump were first instantiated - the motor, buttons, LEDs, potentiometer, and LCD. Calculations for controlling the step rate of the motor in steps/second based on the desired input flow rate in mL/min were then programmed in for both the large and small syringes. 
 
-## Pump Operation
+# Pump Operation
 There are three buttons mounted on the front of the box: Start, Forward, and Reverse. The syringe pump pushes at the designated flowrate when the start button is pressed. The forward and reverse buttons are used to calibrate the position of the plunger holder for loading the syringe such that the user does not need to manually turn the lead screw. The flow rate can be adjusted by turning the potentiometer dial mounted on the box lid. An LCD display is mounted on the side of the box that displays the flow rate of the syringe pump as well as the time remaining until the syringe is fully empty.An RGB LED is also mounted on the box and displays green when the pump is active, yellow when paused, red when the limit switch is triggered, purple when moving in reverse, and blue when moving forward.
 
-## Off the Shelf Parts
+# Off the Shelf Parts
 | Part | Quantity |
 | --- | --- |
 | 5 mL Syringe | 1|
@@ -45,7 +45,7 @@ There are three buttons mounted on the front of the box: Start, Forward, and Rev
 | M3x8 Screw | 20 |
 | M3x12 Screw | 8 |
 
-## 3D Printed Parts
+# 3D Printed Parts
 | Part | Quantity |
 | --- | --- |
 | Back Barrel Stabilizer - Lower | 1 |
