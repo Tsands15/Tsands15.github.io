@@ -21,50 +21,6 @@ gallery:
 
 There are three buttons mounted on the front of the box: Start, Forward, and Reverse. The syringe pump pushes at the designated flowrate when the start button is pressed. The forward and reverse buttons are used to calibrate the position of the plunger holder for loading the syringe such that the user does not need to manually turn the lead screw. The flow rate can be adjusted by turning the potentiometer dial mounted on the box lid. An LCD display is mounted on the side of the box that displays the flow rate of the syringe pump as well as the time remaining until the syringe is fully empty.An RGB LED is also mounted on the box and displays green when the pump is active, yellow when paused, red when the limit switch is triggered, purple when moving in reverse, and blue when moving forward.
 
-# Off the Shelf Parts
-
-
-| Part | Quantity |
-| --- | --- |
-| 5 mL Syringe | 1|
-| 20 mL Syringe | 1 |
-| 1602 LCD | 1 |
-| 2040 Aluminum T Slot Framing | 1 |
-| Arduino Due | 1 |
-| Red Button | 1 |
-| Blue Button | 1 |
-| Green Button | 1 |
-| Breadboard | 1 |
-| Flexible Coupler| 1 |
-| Knob | 1 |
-| Lead Screw | 1 |
-| Lead Screw Nut | 1 |
-| RGB LED T-1, 5 mm dia. | 1 |
-| Limit Switch | 1 |
-| Linear Bearing | 1 |
-| Nema 17 Stepper Motot | 1 |
-| Linear Rod | 2 |
-| Potentiometer | 1 |
-| RD-65A Power Supply | 1 |
-| M3x8 Screw | 20 |
-| M3x12 Screw | 8 |
-
-# 3D Printed Parts
-
-
-| Part | Quantity |
-| --- | --- |
-| Back Barrel Stabilizer - Lower | 1 |
-| Back Barrel Stabilizer - Upper | 1 |
-| Box | 1 |
-| Front Barrel Stabilizer - Lower | 1 |
-| Front Barrel Stabilizer - Upper | 1 |
-| Lid | 1 |
-| Motor Mount | 1 |
-| Plunger Holder - Lower | 1 |
-| Plunger Holder - Upper | 1 |
-
-
 
 # Features
 
