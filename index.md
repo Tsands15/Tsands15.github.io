@@ -1,5 +1,5 @@
 ---
-title: "Home Page"
+title: "Hello and Welcome!"
 layout: splash
 header:
   overlay_color: "#000"
