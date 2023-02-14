@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Tre Sands is an engineer with a passion for design and problem solving. This is website dedicated to the design projects Tre Sands has done throughout his school career."
+excerpt: "My name is Tre Sands, a mechanical engineer with a passion for design and problem solving. This is website dedicated to my design projectsI have done throughout my school career."
 feature_row:
   - image_path: assets/img/syringepump.jpg
     alt: "Syringe Pump"
