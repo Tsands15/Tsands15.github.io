@@ -9,6 +9,12 @@ gallery:
    - image_path: assets/img/PBsetup3.PNG
 
 ---
+# Project Group
+* Gehrig Abbattista
+* Paul Abdelmessih
+* Andy Haworth
+* Randy Kim
+
 
 # Introduction and Background
 The sponsor for this project is the Boxing Resource Center, a local nonprofit boxing gym which helps kids and adults enhance their skill and appreciation for the art of boxing.  A critical component of this sport is reaction time and being able to properly read and respond to the opponent's movements, with moves such as a dodge, block or counterattack.  Normally it would be easy to practice these skills when training with a coach or against a sparring partner, but when a boxer is training at home or the gym is crowded this becomes difficult.  The goal is to create a dynamic reaction training device to help the boxer train these skills while practicing on their own.
@@ -23,6 +29,8 @@ This new reflex bag can be seen on the title page. It consists of a solid 3D pri
 For the overview of the build there are essentially three main parts: the reflex ball, electronics and UI box, and the accelerometer. 
 
 The goal of this project is to have a punchable reflex bag that lights up on certain conditions. The reflex ball has diffuser channels embedded inside of it to run LEDs through the ball. The electronics and control box has an UI as well as ways to interface the power supply with the LEDs, so that they are controllable. There is also an embedded accelerometer inside of the reflex ball, so that punches can be detected. As it is now, the accelerometer is connected to an Arduino that sends a serial signal to LabView to detect the punches. However, in future iterations of this project the punch detection software will solely be run on Arduino, so that there can be a mode that whenever the reflex ball is punched the LEDs in the ball will change to a random color.
+
+![Data Acquisition from Accelerometer](assets/img/lb1.png)
 
 The initial part of this vi obtains a half second running window of data from the accelerometer. The data acquired is the acceleration in the x, y, and z direction ranging from 0 to 1023, as the analog to digital converter on the Arduino has 10 bits of resolution. The accelerometer data is the magnitude of the x, y, and z direction. The first half second running window runs when the reflex bag is static, and takes the mean of this window to zero the future recorded values. After the value to zero new data is found, the code enters a while loop that will iterate for the rest of the program.
 
