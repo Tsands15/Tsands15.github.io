@@ -57,4 +57,4 @@ The data from the accelerometer is taken in 200 ms windows. Then the maximum rea
 
 
 
-{% include gallery caption="Punching Bag Set Up" %}
+{% include gallery caption="**Punching Bag Set Up**" %}
