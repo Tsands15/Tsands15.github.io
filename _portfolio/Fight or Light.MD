@@ -55,10 +55,4 @@ The initial part of this vi obtains a half second running window of data from th
 
 The data from the accelerometer is taken in 200 ms windows. Then the maximum reading and the standard deviation of that window is obtained. For a punch to be detected, three conditions have to be met: the maximum reading must be 1.6 times larger than the standard deviation of the window, the maximum reading must be above 50, and the maximum reading must be less than 5.0 times the standard deviation. These conditions provide a band where the maximum reading can be between 1.6 to 5.0 times greater than the standard deviation, the maximum value being required to be larger than fifty makes sure punches do not get registered when there is not a lot of movement of the reflex bag. When the conditions are not met, the indicator will remain off. When the conditions are met, the indicator will remain on for the value of the maximum reading multiplied by 12. This allows the led indicator to be on longer when there is a stronger punch. This is desirable because the longer the light is on the less phantom punches can occur (phantom punch - when the indicator turns on when there is no punch, stronger punches tend to result in more phantom punches)
 
-# Experimental Videos
-![Punch Detection Testing Videos](/assets/img/PunchDetectionTesting (1)_Trim.mp4)
-**Punch Detection Testing Video**
-
-
-
 {% include gallery caption="**Punching Bag Set Up**" %}
