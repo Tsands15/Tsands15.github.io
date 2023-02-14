@@ -49,6 +49,7 @@ Outlook, Word)
 * BlueBeam 
 * Digital Fabrication Tools
   * Voron 3D printer
+  * Boss Laser LS-1420
 
 
 ## Awards
