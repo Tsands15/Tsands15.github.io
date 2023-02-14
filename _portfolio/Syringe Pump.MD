@@ -85,5 +85,5 @@ There are three buttons mounted on the front of the box: Start, Forward, and Rev
 
 * [Arduino Code](https://online.flippingbook.com/view/300185945/)
 
-{% include gallery caption="Arduino Setup" %}
+{% include gallery caption="**Arduino Setup**" %}
 
