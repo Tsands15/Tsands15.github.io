@@ -58,6 +58,4 @@ Outlook, Word)
  * 2023 GEM Fellow
 
 
-## Other Websites 
 
-* [LinkedIN](https://www.linkedin.com/in/william-sands-456069196/)
