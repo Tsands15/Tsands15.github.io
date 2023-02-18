@@ -97,12 +97,12 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/william.e.sands@vanderbilt.edu-c3c5db73 (1).jpg"
+  avatar           : "assets/img/william.e.sands@vanderbilt.edu-902b6c3c (1).jpg"
   bio              : "An engineer with a passion for design "
   location         : "Nashville, TN"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/william-sands-456069196/"
 
 
