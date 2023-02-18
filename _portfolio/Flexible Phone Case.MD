@@ -2,8 +2,8 @@
 title: "Flexible Phone Case"
 excerpt: "This is a cheap yet effective alternate to store bought phone cases"
 header:
-  image: /assets/img/iPhone13Assemblyrender2.png
-  teaser: /assets/img/phonecase.PNG
+  image: /assets/img/phonecase.PNG
+  teaser: /assets/img/iPhone13Assemblyrender2.png
 gallery:
   - image_path: assets/img/phonecaseiterations.PNG
    
