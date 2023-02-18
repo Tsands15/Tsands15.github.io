@@ -38,13 +38,14 @@ Palmetto Air & Water Balance, Columbia, SC ~ Engineer Intern ~ May 2020 – Augu
 
 ## Technical Skills
 
-Tre can operate a number of CAD software to turn innovatve ideas into 3D models. Tre has experience with the following programs/softwares:
+I can operate a number of CAD software to turn innovatve ideas into 3D models. I have experience with the following programs/softwares:
 * Microsoft Office (Excel, PowerPoint, 
 Outlook, Word) 
 * MATLAB 
 * Python 
 * Fusion 360 
 * SolidWorks 
+* CREO Parametric
 * AutoCAD 
 * BlueBeam 
 * Digital Fabrication Tools
