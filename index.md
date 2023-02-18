@@ -18,6 +18,11 @@ feature_row:
     alt: "Fight or Light"
     title: "Fight or Light"
     excerpt: "Built for rapidly improving boxing reflex skills"
+  - image_path: assets/img/phonecase.PNG
+    alt: "Flexible Phone Case"
+    title: "Fexible Phone Case"
+    excerpt: "Built for protetcing iPhones with a personlized twist" 
+ 
     
 
  
