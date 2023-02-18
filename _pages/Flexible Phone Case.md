@@ -6,10 +6,9 @@ header:
   teaser: /assets/img/syringepump.jpg
 gallery:
   - image_path: assets/img/code.png
- 
- ---
-  
-  
+   
+---
+
   
   # Features
 
