@@ -28,65 +28,16 @@ The global mobile phone accessories market reached a value of US $80.44 billion 
 
 # Parametric Modeling
 
-Parametric modeling was an essential part of creating this phone case as it expedited many measurements and calculations that I otherwise would have spent unnecessary time doing.
-The three parametric sets within my phone design were the phone case wall thickness, phone
-case wall length, and phone case wall width. Having these 3 as parametric parameters allows the
-size of the phone case to be changed with ease and allows for flexibility when designing the
-phone case. This way I could easily change the phone case to fit larger or smaller phones with
-the simple click of two buttons and a number change instead of having to redraw the entire
-sketch of the phone. Additionally, other features based on the set parametric modeling are
-flexible as well and will change simultaneously with the thickness, width, and length if needed,
-allowing for extensive changes with very little effort
+Parametric modeling was an essential part of creating this phone case as it expedited many measurements and calculations that I otherwise would have spent unnecessary time doing. The three parametric sets within my phone design were the phone case wall thickness, phone case wall length, and phone case wall width. Having these 3 as parametric parameters allows the size of the phone case to be changed with ease and allows for flexibility when designing the phone case. This way I could easily change the phone case to fit larger or smaller phones with the simple click of two buttons and a number change instead of having to redraw the entire sketch of the phone. Additionally, other features based on the set parametric modeling are flexible as well and will change simultaneously with the thickness, width, and length if needed, allowing for extensive changes with very little effort.
 
-# Off the Shelf Parts
+# Material Selection
 
-
-| Part | Quantity |
-| --- | --- |
-| 5 mL Syringe | 1|
-| 20 mL Syringe | 1 |
-| 1602 LCD | 1 |
-| 2040 Aluminum T Slot Framing | 1 |
-| Arduino Due | 1 |
-| Red Button | 1 |
-| Blue Button | 1 |
-| Green Button | 1 |
-| Breadboard | 1 |
-| Flexible Coupler| 1 |
-| Knob | 1 |
-| Lead Screw | 1 |
-| Lead Screw Nut | 1 |
-| RGB LED T-1, 5 mm dia. | 1 |
-| Limit Switch | 1 |
-| Linear Bearing | 1 |
-| Nema 17 Stepper Motot | 1 |
-| Linear Rod | 2 |
-| Potentiometer | 1 |
-| RD-65A Power Supply | 1 |
-| M3x8 Screw | 20 |
-| M3x12 Screw | 8 |
-
-# 3D Printed Parts
-
-
-| Part | Quantity |
-| --- | --- |
-| Back Barrel Stabilizer - Lower | 1 |
-| Back Barrel Stabilizer - Upper | 1 |
-| Box | 1 |
-| Front Barrel Stabilizer - Lower | 1 |
-| Front Barrel Stabilizer - Upper | 1 |
-| Lid | 1 |
-| Motor Mount | 1 |
-| Plunger Holder - Lower | 1 |
-| Plunger Holder - Upper | 1 |
+The material utilized to make the phone case was Thermoplastic Polyurethane or TPU. TPU is a unique semi-crystalline material as the molecular structure of TPU is made up of two different monomers, a hard segment, and a flexible soft segment. This is beneficial as it allows the material to have the performance benefits of rubber like the material is very flexible while keeping the easy processability of thermoplastics. Additionally, the material has a high tear and abrasion resistance. TPU has great toughness and chemical resistance and is not too expensive which makes the material the ideal material for customized phone cases. A drawback of TPU however is that the material exhibits low shrinkage due to the elastomer portion of the material's makeup.
 
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43afae0de9074acda4?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 
-* [Arduino Code](https://online.flippingbook.com/view/300185945/)
-
-{% include gallery caption="Arduino Setup" %}
+{% include gallery caption="1st Iteration to Final Iteration (Left to Right)" %}
