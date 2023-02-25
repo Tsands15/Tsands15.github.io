@@ -2,10 +2,10 @@
 title: "Print-in-Place Pliers"
 excerpt: "MultiMaterial Needle Nose Pliers for all your grabbing needs"
 header:
-  image: /assets/img/phonecase.PNG
-  teaser: /assets/img/iPhone13Assemblyrender2.png
+  image: /assets/img/pliers-main.jpg
+  teaser: /assets/img/pliers-preview.jpg
 gallery:
-  - image_path: assets/img/phonecaseiterations.PNG
+  - image_path: assets/img/pliers-iteration.jpg
    
 ---
 
@@ -23,7 +23,7 @@ The second design constraint was having a flexible material that functioned as a
 
 ## Print Settings
 | Print Material | TPU | PLA |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | Extruder Temperature | 240 C° | 215 C° |
 | Bed Temperature | 60 C° | 60 C° |
 | Retraction Speed | 15 mm/s | 40 mm/s |
