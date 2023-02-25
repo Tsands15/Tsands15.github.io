@@ -51,6 +51,7 @@ Outlook, Word)
 * Digital Fabrication Tools
   * Voron 3D printer
   * Boss Laser LS-1420
+  * MakerGear M3-ID
 
 
 ## Awards
