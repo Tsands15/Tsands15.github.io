@@ -22,6 +22,7 @@ The first and most important design constraint of the pliers was usability. This
 The second design constraint was having a flexible material that functioned as a spring component that keeps the pliers in an open position whenever the pliers aren’t being utilized. This was accomplished by printing the central axis of the pliers with TPU. Thermoplastic Polyurethane or TPU is a very flexible and elastic-plastic that is smooth to the touch but strong a durable at the same time. TPU was the perfect material to keep the plies open as it was rigid enough to keep a shape while there are no forces acting upon it. When the pliers’ handles are squeezed, the TPU center elongates in the x-direction, allowing the pliers' jaws to close. When the handles are released, the TPU center goes back to its original shape and the pliers open back up, creating the opening and closing movement required of the pliers. The handle and pliers’ jaws were made of a more rigid material, Polylactic Acid or PLA. This material was chosen so the pliers themselves were durable and stiff enough to hold objects.
 
 ## Print Settings
+
 | Print Material | TPU | PLA |
 | :---: | :---: | :---: |
 | Extruder Temperature | 240 C° | 215 C° |
