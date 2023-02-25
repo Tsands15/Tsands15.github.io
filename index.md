@@ -18,6 +18,10 @@ feature_row:
     alt: "Flexible Phone Case"
     title: "Flexible Phone Case"
     excerpt: "Built for protetcing iPhones with a personlized twist" 
+  - image_path: assets/img/pliers-main.jpg
+    alt: "Print-in-Place Pliers"
+    title: "Print-in-Place Pliers"
+    excerpt: "Built for moving small objects from Point A to Point B" 
   - image_path: assets/img/syringepump.jpg
     alt: "Syringe Pump"
     title: "Syringe Pump"
