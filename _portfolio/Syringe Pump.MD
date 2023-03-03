@@ -83,7 +83,7 @@ To operate this device, the user should use the 3 buttons and the potentiometer 
 
 
 
-* [Arduino Code](https://online.flippingbook.com/view/300185945/)
+* [Arduino Code](/assets/css/arduino_code)
 
 {% include gallery caption="**Arduino Setup**" %}
 
