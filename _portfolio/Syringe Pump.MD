@@ -82,8 +82,5 @@ To operate this device, the user should use the 3 buttons and the potentiometer 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-
-* [Arduino Code](/assets/css/arduino_code)
-
 {% include gallery caption="**Arduino Setup**" %}
 
