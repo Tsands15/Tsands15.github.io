@@ -2,10 +2,8 @@
 title: "Microfluid Homogenous Mixing Device"
 excerpt: "Microfluid device that thoroughly mixes fluid samples"
 header:
-  image: /assets/img/pliers-main.jpg
-  teaser: /assets/img/pliers-preview.jpg
-gallery:
-  - image_path: assets/img/pliers-iteration.jpg
+  image: /assets/img/Microfluid2.jpg
+  teaser: /assets/img/Microfluid1.jpg
    
 ---
 
