@@ -18,7 +18,7 @@ feature_row:
     alt: "Flexible Phone Case"
     title: "Flexible Phone Case"
     excerpt: "Built for protetcing iPhones with a personlized twist" 
-  - image_path: assets/img/pliers-main.jpg
+  - image_path: assets/img/podium.PNG
     alt: "Large Format 3D Printing"
     title: "Large Format 3D Prinitng"
     excerpt: "Building large objects using generative design"
