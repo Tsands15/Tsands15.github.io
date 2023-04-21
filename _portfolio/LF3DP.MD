@@ -2,7 +2,7 @@
 title: "Large Format 3D Printer (LF3DP)"
 excerpt: "This is a new and imporved way to design a podium , utilizing generative design"
 header:
-  image: /assets/img/phonecase.PNG
+  image: /assets/img/supports.jpg
   teaser: /assets/img/podium.PNG
    
 ---
