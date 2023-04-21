@@ -4,7 +4,7 @@ title: "About Tre Sands"
 
 ---
 ## Intro
-I am a senior Mechanical Engineer major at Vanderbilt University and I will be grduating in May 2023. I am currrently on track to attend graduate school after I grdaute while seking internships during the summer. This website was made to show in-depth deails from various projects during my undergraduate career.
+I am a senior Mechanical Engineer major at Vanderbilt University and I will be grduating in May 2023. I will be attending Cornell Fall 2023 semester to get my Masters in Engineering Managment. I will be working with Siemens Technology for the 2023 Summer. This website was made to show in-depth deails from various projects during my undergraduate career.
 
 
 ## Education
