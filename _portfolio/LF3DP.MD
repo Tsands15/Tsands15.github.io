@@ -9,6 +9,29 @@ gallery:
    
 ---
 
+## Steps Required for Generative Design
+The steps to create a generative design and ensuring it is printable can be broken down into 7 distinct steps:
+1.   Create
+     - The first step in creating a generative design is creating a design that can go through the generative design process in the first place. Ensuring the right overhang angle and that no support material is required is crucial during this step.
+
+2.   Generate
+     - Next, the system generates multiple design options for the newly created build. Using the given parameters specified by the designer, an algorithm is used to generate these models.
+
+3.   Analyze
+     - The next step is analyzing the previously generated designs. They are analyzed by many factors, including how well the target goal is met, how much material is used for each option, and the overall build time.
+
+4.   Rank
+     - Then the generated options are ranked on how well they meet the analysis criteria. The best design is shown first on the screen with the rest of the designs following in descending order. This is to help the designer decipher which model will help them achieve their design goal the best.
+     
+5.   Evolve
+     - Once all the models have been ranked, the AI figures out which direction to go in to make the final model that much more efficient. It takes the strengths to frame each model and tries to combine them into one “ideal” model.
+
+6.   Explore
+     - Once the AI has done its job, it is now up to the designer. The designer compares each individual design to see which one fits their needs the most. The geometry, structural supports, and overall look go into the process of choosing.
+
+7.   Integrate
+     - Finally, the designer chooses a favorite design and moves forward to printing that design so it may be utilized in real life.
+       
 ## Generative Design and LF3DP in Residential Construction
 Generative Design (GD) is a design exploration process that harnesses the power of artificial intelligence to create new and improved designs. The designs are high-performance iterations that can benefit manufacturing hurdles such as reducing the component weight and manufacturing cost. The build itself is also beneficial as it can solve complex challenges, optimize performance, and can scale up or down based on the user's needs. Parameters such as performance and spatial requirements are the main factors taken into consideration when generative design is being used. The AI software explores multiple renditions of the same design and outputs the most effective with slight alterations also available. It learns from previous iterations what is optimal and what is not and improves on the downfalls to make the design that much better. The process starts with an initial idea based on design parameters set by the designer, leading to the AI generating the model. Rule algorithms are how each detail in the design is chosen to create the first prototype for the generative design. This model is then judged by the designer and slight alterations are made to the parameters to get closer to the desired final product. This leads to an increasingly refined feedback loop that eventually leads to a highly optimized solution. These solutions can solve an extensive range of engineering problems that are present in everyday life. Benefits of generative design that make it superior to other design methods include simultaneous exploration, an accelerated design timeline, and the ability to create super complex designs.
 
