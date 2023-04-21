@@ -24,14 +24,12 @@ Micromixers with intersecting channels can be used to split, rearrange and combi
 
 
 ## 3D Printed Mold -> Final Device
- 1) Take mold and coat in _ for the epoxy addition
- 2) Pour epoxy into mold
- 3) Let epoxy cure and take a solid shape
- 4) Remove epoxy from mold 
- 5) Inspect epoxy device to ensure part accuracy
- 6) Utilize device as needed
-
-
+ 1.   Take mold and coat in epoxy solution for the epoxy addition
+ 2.   Pour epoxy into mold
+ 3.   Let epoxy cure and take a solid shape
+ 4.   Remove epoxy from mold 
+ 5.   Inspect epoxy device to ensure part accuracy
+ 6.   Utilize device as needed
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e436ef03eacbd3864ff?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
