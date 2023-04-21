@@ -22,11 +22,11 @@ feature_row:
     alt: "Large Format 3D Printing"
     title: "Large Format 3D Prinitng"
     excerpt: "Building large objects using generative design"
-  - image_path: assets/img/pliers-main.jpg
+  - image_path: assets/img/Microfluid2.jpg
     alt: "Microfluid Device"
     title: "Microfluid Device"
     excerpt: "Built for mixing fluids on a microscopic level"
-  - image_path: assets/img/Microfluid2.jpg
+  - image_path: assets/img/pliers-main.jpg
     alt: "Print-in-Place Pliers"
     title: "Print-in-Place Pliers"
     excerpt: "Built for moving small objects from Point A to Point B" 
