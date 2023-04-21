@@ -49,9 +49,10 @@ Outlook, Word)
 * AutoCAD 
 * BlueBeam 
 * Digital Fabrication Tools
-  * Voron 3D printer
+  * Voron 3D Printer
   * Boss Laser LS-1420
   * MakerGear M3-ID
+  * Form 3+ Resin Printer
 
 
 ## Awards
