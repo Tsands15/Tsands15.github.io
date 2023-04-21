@@ -26,7 +26,7 @@ feature_row:
     alt: "Microfluid Device"
     title: "Microfluid Device"
     excerpt: "Built for mixing fluids on a microscopic level"
-  - image_pathassets/img/Microfluid2.jpg
+  - image_path: assets/img/Microfluid2.jpg
     alt: "Print-in-Place Pliers"
     title: "Print-in-Place Pliers"
     excerpt: "Built for moving small objects from Point A to Point B" 
