@@ -1,5 +1,5 @@
 ---
-title: "Large Format 3D Printer (LF3DP)"
+title: "Large Format 3D Printing (LF3DP)"
 excerpt: "This is a new and imporved way to design a podium , utilizing generative design"
 header:
   image: /assets/img/supports.jpg
