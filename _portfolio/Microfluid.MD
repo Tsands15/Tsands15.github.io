@@ -20,6 +20,9 @@ This mixture region employs a main meandering channel with perforations in the w
 # Twisted Channel
 Micromixers with intersecting channels can be used to split, rearrange and combine component streams to enhance mixing. In the proposed design, all of the channels running parallel to the flow direction had a width of 250 μm, while those intersecting the parallel channel network had a width of 750 μm and were aligned at an angle of 60o. The microchannels were designed so that the two species streams merged into one larger stream and then flowed together along a mixing channel of length 300 μm.
 
+## Why Vat Photopolymerization
+Vat photopolymerization is a form of additive manufacturing that creates 3D objects by selectively curing liquid resin through targeted light-activated polymerization. It was the chosen form of manufacturing for this microfluidic device for two important reasons. The first reason is the high accuracy and good finish the process can give your print. The method of curing a print adds to the overall accuracy of the print and that phenomenon is very present with this manufacturing process. The second reason is the relatively quick process. Some prints can take days to complete to achieve this level of accuracy, but if done correctly, this print can be completed in a matter of hours.
+
 
 ## 3D Printed Mold -> Final Device
  1.   Take mold and coat in epoxy solution for the epoxy addition
